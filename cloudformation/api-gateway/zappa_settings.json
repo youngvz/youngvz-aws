@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-1",
+        "profile_name": "youngvz",
+        "project_name": "api-gateway",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-cw29yv1d5"
+    }
+}
